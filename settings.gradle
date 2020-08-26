@@ -1,0 +1,4 @@
+rootProject.name = 'KotlinMultiLib_Cob'
+
+
+enableFeaturePreview('GRADLE_METADATA')
