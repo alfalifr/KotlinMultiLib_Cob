@@ -4,8 +4,10 @@ plugins {
 repositories {
     mavenCentral()
 }
-group 'com.example'
+group 'com.example.kotlinmulti.cob'
 version '0.0.1'
+
+//id 'com.kotlinmulti.cob'
 
 apply plugin: 'maven-publish'
 
